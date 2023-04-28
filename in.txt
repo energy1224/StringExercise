@@ -1,0 +1,1 @@
+{anya: 22}{masha: 34}{grisha: 41}{vasya: 55}{sveta: 25}
