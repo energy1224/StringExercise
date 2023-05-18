@@ -32,7 +32,7 @@ public class Cars {
         }
 
         System.out.println("----------------------");
-        System.out.println("Список уникальных машинок: "+sedanSet);
+        System.out.println("Список уникальных машин: "+sedanSet);
 
         Set<String> carModelSet= new TreeSet<>();
         for (Sedan sed: cars) {
